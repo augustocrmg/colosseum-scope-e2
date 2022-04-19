@@ -23,7 +23,7 @@
 #define DU_INST 0
 #define DU_ID 1
 //#define DU_IP_V4_ADDR "172.17.1.102"
-#define INTERFACE_TO_RIC "can0"
+#define INTERFACE_TO_RIC "col0"
 #define INTERFACE_TO_USRP "usrp0"
 #define SRSEPC_TUN_INTERFACE "srs_spgw_sgi"
 #define CU_IP_V4_ADDR "192.168.130.82"
